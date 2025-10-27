@@ -1,7 +1,33 @@
 ---
 layout: default
 ---
+## ¿Qué hacemos?
 
+En Microse Lab investigamos y desarrollamos tecnologías de microelectrónica y sistemas embebidos. Nuestro trabajo combina diseño de hardware, firmware y herramientas de software para crear prototipos, pruebas y demostradores que faciliten la innovación en dispositivos integrados.
+
+Trabajamos en proyectos colaborativos, cursos prácticos y actividades que conectan la investigación con la enseñanza y la comunidad maker.
+
+## Proyectos
+
+- Chipathon 2025 — [Ficha del proyecto y resumen de la actividad]({{ '/posts/chipathon.html' | relative_url }})
+- Página de ejemplo / notas — [Otra página]({{ '/posts/another-page.html' | relative_url }})
+- Código y repositorios — [Ver en GitHub]({{ site.github.repository_url }})
+
+Si quieres que añada más enlaces a proyectos concretos, dime cuáles y los agrego.
+
+<!-- Sección 3: tutoriales e información -->
+## Tutoriales e información
+
+Aquí recopilamos guías, tutoriales y documentación útil para empezar con microelectrónica y sistemas embebidos.
+
+- Contribuir / guía rápida — [CONTRIBUTING]({{ '/docs/CONTRIBUTING.md' | relative_url }})
+- Código de conducta — [CODE OF CONDUCT]({{ '/docs/CODE_OF_CONDUCT.md' | relative_url }})
+- Soporte / contacto — [SUPPORT]({{ '/docs/SUPPORT.md' | relative_url }})
+
+También publicamos tutoriales y demos en el repositorio y en las entradas del blog; echa un vistazo a la sección de `posts` para ejemplos prácticos.
+
+
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./posts/another-page.html).
@@ -123,3 +149,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->

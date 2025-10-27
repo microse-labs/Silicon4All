@@ -2,3 +2,30 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* Custom helpers for post images */
+.post-image-center {
+	display: block;
+	margin: 20px auto;
+}
+
+.post-media {
+	display: flex;
+	gap: 20px;
+	align-items: flex-start;
+	margin: 20px 0;
+}
+
+.post-media img {
+	max-width: 50%;
+	height: auto;
+}
+
+@media (max-width: 720px) {
+	.post-media {
+		flex-direction: column;
+	}
+	.post-media img {
+		max-width: 100%;
+	}
+}

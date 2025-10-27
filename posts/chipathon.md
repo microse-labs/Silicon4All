@@ -1,14 +1,16 @@
 ---
 layout: post
+title: "Chipathon 2025 — Blocks & Bots"
+date: 2025-10-27 10:00:00 +0000
+author: "Royce Richmond"
 ---
 
-## Welcome to another page
+The 2025 [Chipathon](https://github.com/sscs-ose/sscs-chipathon-2025?tab=readme-ov-file). Blocks & Bots: An Open Chip Playground augmented with LLMs.
 
-The 2025 Chipathon. Blocks & Bots: An Open Chip Playground augmented with LLMs.
-
-
-
-![Chipaton](/assets/img/2025-chipathon-sscs-pico-blocks-and-bots.jpg)
+<img class="post-image-center" src="{{ '/assets/img/2025-chipathon-sscs-pico-blocks-and-bots.jpg' | relative_url }}" alt="Chipaton" />
 
 
-[back](./)
+asdaqsda
+
+
+[back]({{ "/" | relative_url }})
